@@ -1,5 +1,4 @@
 # AI-CHATBOT-WITH-NLP
-# AI-CHATBOT-WITH-NLP
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
@@ -47,3 +46,4 @@ In Python versions above 3.6 PyAudio is not a supported library and installing P
 
 
 #OUTPUT 
+![Image](https://github.com/user-attachments/assets/4aad650b-08e6-4f4c-8fc9-44a19b422cb2)
